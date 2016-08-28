@@ -1,0 +1,13 @@
+---
+layout: "post"
+title: "TEST POST"
+subtitle: "This is a test post"
+active: "journal"
+image:
+  feature: "pc008.jpg"
+date: "2016-02-01"
+header-img: "img/postcover/pc008.jpg"
+comments: "true"
+---
+
+<p>Test post</p>
