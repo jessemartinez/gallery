@@ -1,17 +1,17 @@
 # Site settings
 title: PHOTORAMA
-email: ""
+email: "mjesse@gmail.com"
 description: "Photo Journal"
 url: "http://jessemartinez.github.io"
 baseurl: "/photorama"
-facebook_username: ""
-twitter_username: ""
-instagram_username: ""
-github_username:  ""
-deviantart_username: ""
-flickr_username: ""
-discus_shortname: ""
-share: true
+#facebook_username: ""
+#twitter_username: ""
+#instagram_username: ""
+github_username:  "jessemartinez"
+#deviantart_username: ""
+#flickr_username: ""
+#discus_shortname: ""
+share: false
 
 # Owner/author information
 owner:
@@ -23,7 +23,7 @@ owner:
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
 # Set 'provider' to false to turn commenting off globally.
-#Set 'provider: false' to disable comments globally.
+# Set 'provider: false' to disable comments globally.
 # Disable comments for individual pages/posts by specifying 'comments: false' in the page/post YAML Front Matter.
 #
 comments :
