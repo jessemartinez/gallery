@@ -2,18 +2,19 @@
 layout: home
 main-title: "Jesse &amp; Jiani"
 subtitle: "Wedding photographs"
+subtitle-link: gallery/wedding/
 description: "August 8, 2016"
 images:
- - image_path: /img/slider/home001.jpg
-   gallery-folder: /img/slider/
- - image_path: /img/slider/home002.jpg
-   gallery-folder: /img/slider/
- - image_path: /img/slider/home003.jpg
-   gallery-folder: /img/slider/
- - image_path: /img/slider/home004.jpg
-   gallery-folder: /img/slider/
- - image_path: /img/slider/home006.jpg
-   gallery-folder: /img/slider/
+ - image_path: /gallery/archive/wedding/wedding001.jpg
+   gallery-folder: /gallery/archive/wedding/
+ - image_path: /gallery/archive/wedding/wedding002.jpg
+   gallery-folder: /gallery/archive/wedding/
+ - image_path: /gallery/archive/wedding/wedding003.jpg
+   gallery-folder: /gallery/archive/wedding/
+ - image_path: /gallery/archive/wedding/wedding004.jpg
+   gallery-folder: /gallery/archive/wedding/
+ - image_path: /gallery/archive/wedding/wedding006.jpg
+   gallery-folder: /gallery/archive/wedding/
 ---
 
 
@@ -38,7 +39,7 @@ images:
             <!-- WYSIWYG -->
             <div class="position-absolute">
                 <h2 class="big no-margin"><strong>{{ page.main-title }}</strong></h2>
-                <h2>{{ page.subtitle }}</h2> 
+                <h3 id="subtitle-link"><a href="{{ subtitle-link }}">{{ page.subtitle }}</a></h3> 
                 <div class="entry-summary">
                     <p>{{ page.description }}</p>
                 </div><br />
