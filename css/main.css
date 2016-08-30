@@ -20,10 +20,15 @@ h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
-h3#subtitle-link{
+h3#subtitle-link {
   text-decoration: underline;
   font-size: 30px;
-  color: #eee;
+}
+h3#subtitle-link a {
+  color: #EEE;
+}
+h3#subtitle-link a:hover {
+  color: #EA8E00;
 }
 a {
   color: #760824;
