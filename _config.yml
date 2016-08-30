@@ -1,9 +1,9 @@
 # Site settings
-title: Jesse Martinez Gallery
+title: Jesse Martinez
 email: "mjesse@gmail.com"
 description: "Photo Journal"
 url: "https://jessemartinez.github.io"
-baseurl: "/gallery"
+baseurl: "/portfolio"
 facebook_username: "jiani.guo"
 #twitter_username: ""
 #instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://jessemartinez.github.io/photorama/gallery/"  
-  #- JOURNAL: "https://jessemartinez.github.io/photorama/journal/"
-  - ABOUT: "https://jessemartinez.github.io/photorama/about/"
+  - GALLERY: "https://jessemartinez.github.io/portfolio/gallery/"  
+  #- JOURNAL: "https://jessemartinez.github.io/portfolio/journal/"
+  - ABOUT: "https://jessemartinez.github.io/portfolio/about/"
 
 # All translation keys
 translations:
