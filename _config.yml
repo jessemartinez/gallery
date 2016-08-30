@@ -1,10 +1,10 @@
 # Site settings
-title: PHOTORAMA
+title: Jesse Martinez Gallery
 email: "mjesse@gmail.com"
 description: "Photo Journal"
 url: "https://jessemartinez.github.io"
-baseurl: "/photorama"
-#facebook_username: ""
+baseurl: "/gallery"
+facebook_username: "jiani.guo"
 #twitter_username: ""
 #instagram_username: ""
 github_username:  "jessemartinez"
